@@ -22,8 +22,7 @@ jobs:
           pip install requests
           pip install pandas
           pip install requests
-          pip install bs4 
-          pip install BeautifulSoup
+          pip install bs4
           pip install numpy
           pip install time
           pip install unidecode
