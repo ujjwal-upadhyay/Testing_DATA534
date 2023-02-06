@@ -1,7 +1,5 @@
 ## Weather API
 
-# Job-to-Skill
-
 [![Build Status][build-shield]][build-url]
 [![Release][release-shield]][release-url]
 [![Forks][forks-shield]][forks-url]
