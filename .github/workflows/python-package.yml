@@ -17,6 +17,8 @@ jobs:
     - name: Install package
       run: |
         pip install --upgrade pip
+        pip install unittest
+        pip install pandas
 
     - name: Test package
       run: |
