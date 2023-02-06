@@ -23,6 +23,8 @@ jobs:
           pip install pandas
           pip install bs4
           pip install unidecode
+          pip install openpyxl
+          pip install altair
 
       - name: run unit tests
         run: pytest
