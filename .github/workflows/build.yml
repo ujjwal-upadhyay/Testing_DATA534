@@ -21,6 +21,7 @@ jobs:
           pip install pytest
           pip install requests
           pip install pandas
+          pip install bs4
 
       - name: run unit tests
         run: pytest
