@@ -1,1 +1,1 @@
-# Testing_DATA534
+[![Build and Test [Python 3.10]](https://github.com/ujjwal-upadhyay/Testing_DATA534/actions/workflows/build.yml/badge.svg)](https://github.com/ujjwal-upadhyay/Testing_DATA534/actions/workflows/build.yml)
