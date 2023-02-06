@@ -25,7 +25,6 @@ jobs:
           pip install bs4
           pip install numpy
           pip install unidecode
-          pip install math
           pip install openpyxl
 
       - name: run unit tests
