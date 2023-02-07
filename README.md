@@ -19,5 +19,5 @@
 [stars-shield]: https://img.shields.io/github/stars/ujjwal-upadhyay/Testing_DATA534.svg?style=flat-square
 [stars-url]: https://github.com/ujjwal-upadhyay/Testing_DATA534/stargazers
 [license-shield]: https://img.shields.io/github/license/ujjwal-upadhyay/Testing_DATA534.svg?style=flat-square
-[license-url]: https://github.com/ujjwal-upadhyay/Testing_DATA534/blob/master/LICENSE
+[license-url]: https://github.com/ujjwal-upadhyay/Testing_DATA534/blob/main/LICENSE
 [build-url]: https://github.com/ujjwal-upadhyay/Testing_DATA534/actions/workflows/build.yml
